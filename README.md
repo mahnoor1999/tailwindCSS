@@ -1,2 +1,2 @@
 # tailwindCSS
-A workshop on to get started with Tailwind Css
+get started with Tailwind Css
